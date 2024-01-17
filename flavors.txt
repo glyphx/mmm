@@ -15,7 +15,7 @@ Squeeze: https://www.amazon.com/dp/B0CRM7ZQDG?ref=myi_title_dp
 Bar: https://www.amazon.com/dp/B0CRPQS41P?ref=myi_title_dp
 
 Chocolate Chip Cookie
-Jar :https://www.amazon.com/dp/B0CRPRJK6Z?ref=myi_title_dp
+Jar: https://www.amazon.com/dp/B0CRPRJK6Z?ref=myi_title_dp
 
 Strawberry Shortcake
 Jar: https://www.amazon.com/dp/B0CRPPVYH6?ref=myi_title_dp
