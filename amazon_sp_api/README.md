@@ -47,5 +47,22 @@ python main.py /path/to/product_data.json
     "productCategory": "YOUR_PRODUCT_CATEGORY",
     "GTIN": "YOUR_GTIN"
 }
+{
+    "sku": "FRENCHVAN-SQUEEZE-001",
+    "productTitle": "French Vanilla Squeeze Soy Wax Melt",
+    "description": "Experience the soothing and luxurious aroma of French Vanilla with our premium soy wax melts. Perfect for creating a warm and inviting atmosphere in your home.",
+    "bulletPoints": [
+        "Made with 100% natural soy wax for a cleaner, longer-lasting burn.",
+        "Infused with the rich and comforting scent of French Vanilla.",
+        "Ideal for use in any standard wax warmer, spreading a delightful fragrance without smoke or soot.",
+        "Eco-friendly and sustainable product, perfect for creating a cozy and inviting home environment.",
+        "Each pack contains a generous amount of wax melts, offering hours of aromatic pleasure."
+    ],
+    "standardPrice": 19.99,
+    "quantity": 100,
+    "productCategory": "Home & Kitchen > Home Décor > Candles & Holders > Wax Melts",
+    "GTIN": "1234567890123"
+}
+
 ```
 
