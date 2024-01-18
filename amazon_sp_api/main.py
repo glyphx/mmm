@@ -11,8 +11,13 @@ def main():
     parser = argparse.ArgumentParser(description="Amazon SP-API Test Utility")
     parser.add_argument('--method', help="Method to test (create_listing, list_all_products, get_product_by_gtin_or_sku)", required=True)
     args = parser.parse_args()
-
-    api = AmazonSPAPI(client_id='your_client_id', client_secret='your_client_secret', refresh_token='your_refresh_token')
+    
+    # Load credentials from environment variables
+    client_id = os.getenv("AMAZON_CLIENT_ID")
+    client_secret = os.getenv("AMAZON_CLIENT_SECRET")
+    refresh_token = os.getenv("AMAZON_REFRESH_TOKEN")
+    
+    api = AmazonSPAPI(client_id, client_secret, refresh_token)
 
     if args.method == 'create_listing':
         json_file = input("Enter the path to the JSON file with product data: ")
