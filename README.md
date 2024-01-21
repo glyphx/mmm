@@ -45,7 +45,7 @@
       - Relaxation Retreat: Crafted for serenity, perfect for unwinding after a long day.
       - Warmer Ready: Works wonderfully in wax warmers, offering a sustained, flameless scent.
   - **Bar**:
-    - ****
+    - **Wax Melt for Wax Warmers Cubes Clean Scent**
     - **url**:
       https://www.amazon.com/dp/B0CRQJ91CG
     - **description**:
