@@ -8,12 +8,19 @@
       - Nostalgic Journey: Revisit cherished memories with this comforting and familiar scent.
       - Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
   - **BAR**:
+    - **Wax Melt, Wax Warmer Cubes French Vanilla Scent**
     - **url**:
       https://www.amazon.com/dp/B0CRQ3YVQZ
     - **description**:
-      - Pure Soy Scented Bar: Rich French Vanilla for a soothing experience, crafted for excellent fragrance throw.
+      - Decadent notes of vanilla bean, sugar cane and coconut splashed with pure vanilla extract. Break 1-2 squares off for warmer and enjoy the fragrance
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
+      - Pure Soy Scented Wax Melt Rich French Vanilla for a soothing experience, crafted for excellent fragrance throw.
       - Cozy Comfort: Like a warm hug, ideal for relaxing evenings at home.
       - Warmer-Compatible: Enhances the ambiance when used in wax warmers, providing a flameless fragrance experience.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      -   Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Fruity Cereals**:
   - **Squeeze**:
     - **url**:
@@ -79,9 +86,16 @@ Compatible with all Warmers: Delivers a continuous, gentle aroma in any space us
     - **url**:
       https://www.amazon.com/dp/B0CRPRJK6Z
     - **description**:
+      - This 6oz Chocolate Chip Cookie Scoop Wax Melt smells just chocolate chip cookies. The chocolate chips are melts you can use by themselves or scoop right ino the buttery smooth wax with the chocolate chips. Scoop a small amount into your warmer and enjoy the fragrance
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - 100% Soy Wax Melt: Indulge in the comforting scent of Chocolate Chip Cookies.
       - Dessert-Inspired Indulgence: A guilt-free way to enjoy your favorite dessert aromas.
       - Enhances with Warmers: Releases a rich, inviting aroma when used in wax warmers.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
+
 - **Strawberry Shortcake**:
   - **Jar**:
     - **url**:
