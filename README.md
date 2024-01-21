@@ -45,16 +45,24 @@
       - Relaxation Retreat: Crafted for serenity, perfect for unwinding after a long day.
       - Warmer Ready: Works wonderfully in wax warmers, offering a sustained, flameless scent.
   - **Bar**:
+    - ****
     - **url**:
       https://www.amazon.com/dp/B0CRQJ91CG
     - **description**:
-      - Soy-Based Clean Bar: Offers a crisp, refreshing clean scent for a spotless home feeling.
+      - A late summer bouquet of violet and lotus brightened with mandarin orange and lemon on a background of petitgrain. Break off 1-2 squares for your warmer and enjoy the fragrance
+Compatible with all Warmers: Delivers a continuous, gentle aroma in any space using a warmer
+    - **Bullet Point**
+      - Soy-Based Wax Melt: Offers a crisp, refreshing clean scent for a spotless home feeling.
       - Soothing Gift: A thoughtful way to show care, suitable for any calm-seeking individual.
       - Compatible with Warmers: Delivers a continuous, gentle aroma in any space using a warmer.
+      - Highly Fragrant  Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+      - A late summer bouquet of violet and lotus brightened with mandarin orange and lemon on a background of petitgrain.
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable  Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Galactic Grape**:
   - **Squeeze**:
     - **url**:
-      https://www.amazon.com/dp/B0CRM7ZQDG
+      https://www.amazon.com/dp/B0CRM7ZQDG1
     - **description**:
       - Stellar 100% Soy Wax Melt: Sweet Galactic Grape scent for an out-of-this-world fragrance experience.
       - Exotic Escape: Adds a touch of adventure and mystery to your daily life.
@@ -87,7 +95,7 @@
     - **url**:
       https://www.amazon.com/dp/B0CRPQBM3M
     - **description**:
+    - **add scooopable**
       - Homely 100% Soy Wax Melt: Cozy Blueberry Cobbler aroma for a comforting atmosphere.
       - Nature's Embrace: Bring the outdoors inside with this fresh and invigorating aroma.
       - Great with Warmers: Designed to emit a warm, inviting scent when used in wax warmers.
-asdfasdfasdfasdf
