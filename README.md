@@ -2,6 +2,7 @@
   - **Squeeze**:
     - **url**:
       https://www.amazon.com/dp/B0CSF5KJ7L
+    - **Bullets**:  
     - **description**:
       - 100% Soy Wax Melt: Luxurious French Vanilla aroma, perfect for creating a warm, inviting atmosphere.
       - Nostalgic Journey: Revisit cherished memories with this comforting and familiar scent.
@@ -22,12 +23,19 @@
       - Morning Freshness: Start your day with this uplifting and vibrant aroma.
       - Optimized for Warmers: Releases a delightful fragrance when used in wax warmers, perfect for home or office.
   - **Bar**:
+    - **Wax Melt Fruity Cereals for Wax Warmers**
     - **url**:
       https://www.amazon.com/dp/B0CRQJLN23
-    - **description**:
+    - **Bullet Point**:
       - Colorful Soy Bar: Fruity Cereals scent in a convenient bar form, perfect for a playful atmosphere.
       - Gift of Cheer: A joyful and uplifting choice, great for bringing a smile.
       - Warmer-Friendly: Ideal for spreading a fruity fragrance in any room using a wax warmer.
+      - Highly Fragrant  Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+      - Uplifting scent of sun-kissed lemons blended with a delightful fusion of fruity cherries, mandarin oranges, sweet cream and vanilla sugar
+    - **description**:
+      - Uplifting scent of sun-kissed lemons blended with a delightful fusion of fruity cherries, mandarin oranges, sweet cream and vanilla sugar. This scent will bring back memories of your favorite fruity cereal Break off 1-2 squares for your warmer and enjoy the fragrance
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Squeeze Scented oil Soy Bars Tarts Scoops Fragrance Cubes Squares Aromatherapy freshener scents Fruity Cereals Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy
 - **Clean**:
   - **Squeeze**:
     - **url**:
