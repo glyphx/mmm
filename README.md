@@ -90,4 +90,3 @@
       - Homely 100% Soy Wax Melt: Cozy Blueberry Cobbler aroma for a comforting atmosphere.
       - Nature's Embrace: Bring the outdoors inside with this fresh and invigorating aroma.
       - Great with Warmers: Designed to emit a warm, inviting scent when used in wax warmers.
-we did a thing
