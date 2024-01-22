@@ -55,12 +55,21 @@ Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Mad
       - Wax Melt Warmer Candle Squeeze Scented oil Soy Bars Tarts Scoops Fragrance Cubes Squares Aromatherapy freshener scents Fruity Cereals Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy
 - **Clean**:
   - **Squeeze**:
+    - **Wax Melt, Wax Warmer, Squeeze Wax Melt Clean Scent 4oz**
     - **url**:
       https://www.amazon.com/dp/B0CRC2CG66
     - **description**:
+      - This fragrance offers a late summer blend featuring violet and lotus, heightened by notes of mandarin orange and lemon, all resting on a base of petitgrain for a refreshing and vibrant composition. Squeeze bag until wax is soft. Then squeeze smalll amount into your warmer and enjoy the fragrance
+Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - 100% Soy Clean Scent: Fresh and purifying aroma, ideal for refreshing your living space.
       - Relaxation Retreat: Crafted for serenity, perfect for unwinding after a long day.
       - Warmer Ready: Works wonderfully in wax warmers, offering a sustained, flameless scent.
+      - Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy  
   - **Bar**:
     - **Wax Melt for Wax Warmers Cubes Clean Scent**
     - **url**:
