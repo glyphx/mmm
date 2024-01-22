@@ -1,12 +1,31 @@
 - **French Vanilla**:
   - **Squeeze**:
+    - **Wax Melt, 100% Soy Wax For Warmers, French Vanilla SqueezeScent**
     - **url**:
       https://www.amazon.com/dp/B0CSF5KJ7L
     - **Bullets**:  
+       - French Vanilla Squeeze Wax Melt 4oz
+       - Decadent notes of vanilla bean, sugar cane and coconut splashed with pure vanilla extract.
+       - Squeeze wax in bag until soft. Then squeeze small amount into your wax warmer and enjoy the fragrance.
+       - Luxurious French Vanilla aroma, perfect for creating a warm, inviting atmosphere. Revisit cherished memories with this comforting and familiar scent.
+       - 100% Soy Wax Melt. Perfect with Warmers: Designed for use in wax warmers.
+       - Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+       - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
     - **description**:
-      - 100% Soy Wax Melt: Luxurious French Vanilla aroma, perfect for creating a warm, inviting atmosphere.
-      - Nostalgic Journey: Revisit cherished memories with this comforting and familiar scent.
-      - Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+       - Decadent notes of vanilla bean, sugar cane and coconut splashed
+with pure vanilla extract. 
+Squeeze wax in bag until soft.
+Then squeeze small amount into your wax warmer and enjoy the fragrance.
+100% Soy Wax Melt.
+Luxurious French Vanilla aroma, perfect for creating
+a warm, inviting atmosphere.
+Revisit cherished memories with this comforting and familiar scent.
+Perfect with Warmers: Designed for use in wax warmers
+enhancing rooms with a long-lasting, smoke-free scent.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+       - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
+      
   - **BAR**:
     - **Wax Melt, Wax Warmer Cubes French Vanilla Scent**
     - **url**:
