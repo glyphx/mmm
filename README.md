@@ -75,12 +75,20 @@ Compatible with all Warmers: Delivers a continuous, gentle aroma in any space us
       - Exotic Escape: Adds a touch of adventure and mystery to your daily life.
       - Warmer-Compatible: Ideal for use in wax warmers, ensuring a continuous, pleasant aroma.
   - **Bar**:
+    - **Wax Melt, Wax Warmer Cubes Galactic Grape Scent**
     - **url**:
       https://www.amazon.com/dp/B0CRPQS41P
     - **description**:
-      - Interstellar Soy Bar: Galactic Grape fragrance, perfect for an adventurous and lively mood.
+      - A fun, fruity blend of red grapes, raspberry and vanilla sugar with nuances of lily and orange flower. Break off 1-2 squares for your warmer and enjoy the fragrance
+Perfect for Warmers: Enhances the experience with a strong, lasting aroma in wax warmers.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
+      - Interstellar Soy Melt: Galactic Grape fragrance, perfect for an adventurous and lively mood.
       - Galactic Gift: A unique and mysterious scent, great for those who love to explore.
       - Perfect for Warmers: Enhances the experience with a strong, lasting aroma in wax warmers.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Chocolate Chip Cookie**:
   - **Jar**:
     - **url**:
