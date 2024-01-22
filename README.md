@@ -23,12 +23,22 @@ Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Mad
       -   Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Fruity Cereals**:
   - **Squeeze**:
+    -**Wax Melt, Wax Warmer, Squeeze Wax Melt, Fruity Cereals Scent 4oz**
     - **url**:
       https://www.amazon.com/dp/B0CRBPHDS5
-    - **description**:
+    - **description**: 
+      - This fragrance will bring back childhood memories of your favorite fruity cereals. Squeeze wax in bag untill soft. Then squeeze small amount into your warmer and enjoy the fragrance
+Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - Vibrant 100% Soy Wax Melt: Energetic Fruity Cereals scent, brightening the mood in any room.
       - Morning Freshness: Start your day with this uplifting and vibrant aroma.
       - Optimized for Warmers: Releases a delightful fragrance when used in wax warmers, perfect for home or office.
+      - Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
+      -  
   - **Bar**:
     - **Wax Melt Fruity Cereals for Wax Warmers**
     - **url**:
