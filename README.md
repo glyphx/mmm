@@ -96,20 +96,32 @@ Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Mad
     - **Generic Keyword**
       - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 
-- **Strawberry Shortcake**:
+- **Wax Melt, Scoop Wax Melt 6oz glass jar Strawberry Shortcake Scent**:
   - **Jar**:
     - **url**:
       https://www.amazon.com/dp/B0CRPPVYH6
     - **description**:
+      - A fruity blend of fresh strawberries with hints of vanilla and sugar. Our 6oz glass jar looks and smells just like a strawberry shortcake. Scoop a small amount into your wax warmer and enjoy the fragrance.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - Sweet 100% Soy Wax Melt: Enjoy the summery scent of Strawberry Shortcake.
       - Romantic Ambiance: Set the mood for a special evening with this loving scent.
       - Ideal for Warmers: Provides a long-lasting, delightful fragrance in any warmer setup.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Blueberry Cobbler**:
   - **Jar**:
     - **url**:
       https://www.amazon.com/dp/B0CRPQBM3M
     - **description**:
-    - **add scooopable**
+      - A delicious blend of blueberries, cinnamon sugar and butter vanilla piled high in a freshly-baked crust. Our 6oz glass jar looks like and smell just like blueberry cobbler. You can use the crumble and blueberries by themselves in your warmer. Or you can scoop a small amount of crumble,blueberries,and buttery blue melt all together. Scoop a small amount intio your warmer and enjoy the fragrance
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - Homely 100% Soy Wax Melt: Cozy Blueberry Cobbler aroma for a comforting atmosphere.
       - Nature's Embrace: Bring the outdoors inside with this fresh and invigorating aroma.
       - Great with Warmers: Designed to emit a warm, inviting scent when used in wax warmers.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
+
