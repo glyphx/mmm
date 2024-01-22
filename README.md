@@ -68,12 +68,20 @@ Compatible with all Warmers: Delivers a continuous, gentle aroma in any space us
       - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable  Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
 - **Galactic Grape**:
   - **Squeeze**:
+    - **Wax Melt, Wax Warmer, Squeeze Wax, Galactic Grape Scent 4oz**
     - **url**:
       https://www.amazon.com/dp/B0CRM7ZQDG1
     - **description**:
+      - A fun, fruity blend of red grapes, raspberry and vanilla sugar with nuances of lily and orange flower. Squish the pouch till soft then squeeze a small amount into your warmer and enjoy the fragrance. 4 oz
+Perfect with Warmers: Designed for use in wax warmers, enhancing rooms with a long-lasting, smoke-free scent.
+Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Bullet Point**
       - Stellar 100% Soy Wax Melt: Sweet Galactic Grape scent for an out-of-this-world fragrance experience.
       - Exotic Escape: Adds a touch of adventure and mystery to your daily life.
       - Warmer-Compatible: Ideal for use in wax warmers, ensuring a continuous, pleasant aroma.
+      - Highly Fragrant Hand Crafted With Higher Concentration of Fragrance Wax Melt Made in The USA
+    - **Generic Keyword**
+      - Wax Melt Warmer Candle Scented oil Soy Bars Tarts Scoops Scoopable Fragrance Squeeze Cubes Squares Aromatherapy freshener scents Flame-less flame Smoke-Free smoke Luxury Zen Strong Air Plant-Based plant based Colored Oil-infused infused Clamshells clam shell Meltaway Potpourri Liners Melted Premium Home Aroma Long Lasting Sensations Diffuser Essential Organic Natural waxmelt therapy Yankee Scentsy
   - **Bar**:
     - **Wax Melt, Wax Warmer Cubes Galactic Grape Scent**
     - **url**:
